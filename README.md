@@ -220,14 +220,39 @@ https://github.com/user-attachments/assets/1bfddc7f-ccca-4324-b938-4b94868e4b39
 
 ---
 
-## 📌 Project Status
+## 🔮 Planned Features & Future Development
 
-The project is actively developed and extended with:
+PocketCoach is designed as a continuously evolving platform. The following major features are planned for future releases:
 
-- Trainer dashboards
-- Training plans
-- Advanced analytics
-- Mobile version
+### 🏆 AI-Judged Competitions & Community Contests
+- Users will be able to organize fitness competitions directly in the platform.
+- Exercises performed during competitions will be analyzed automatically by AI models.
+- Each repetition will be judged as valid or invalid.
+- If a user disagrees with the AI verdict, they can submit the repetition to a **community contest system**.
+- Other users will be able to vote on whether the AI decision was correct.
+- Community voting results will be used to:
+  - Resolve disputes
+  - Improve model accuracy
+  - Detect edge cases and biases in movement classification
+
+---
+
+### 💬 Trainer Communication & Coaching System
+- Built-in chat system for direct communication between users and professional trainers.
+- Trainer panel with:
+  - Access to trainee profiles
+  - Training history
+  - Exercise analysis results
+  - Body proportions data
+  - Progress statistics
+- Video chat functionality for live training sessions and consultations.
+- Trainer marketplace:
+  - Trainers can create public profiles
+  - Offer coaching services
+  - Set availability and pricing
+  - Promote their expertise within the platform
+
+These features aim to transform PocketCoach into a **complete AI-assisted training ecosystem**, combining automation, expert knowledge, and community validation.
 
 ---
 
