@@ -46,7 +46,6 @@ The authentication system provides a high level of security:
 
 https://github.com/user-attachments/assets/9713f605-1297-4adc-90b2-bb50b040589b
 
-
 ---
 
 ### 🏠 2. Home (Social Feed)
@@ -64,7 +63,8 @@ The home page acts as a social hub for users:
 All uploaded media is **securely stored in the cloud** and validated before processing.
 
 🎬 Demo video:  
-`HomePage.mp4`
+
+https://github.com/user-attachments/assets/f6bcc2b7-12e2-407e-93a7-630ab7967c4b
 
 ---
 
@@ -87,7 +87,8 @@ The exercise page provides access to a large exercise database:
   - Descriptions
 
 🎬 Demo video:  
-`Exercises.mp4`
+
+https://github.com/user-attachments/assets/86df65b2-acc1-48e5-a200-cb9ee83cbf03
 
 ---
 
@@ -112,7 +113,8 @@ The model estimates these values from user-uploaded photos.
 These parameters are later used to **personalize exercise form analysis** and improve accuracy.
 
 🎬 Demo video:  
-`BodyProportions.mp4`
+
+https://github.com/user-attachments/assets/a873d0f6-e8b2-4267-b89e-f3adc325e5f1
 
 ---
 
@@ -134,7 +136,8 @@ The collected data can be useful for:
 - Personalized recommendations
 
 🎬 Demo video:  
-`SelfAssessment.mp4`
+
+https://github.com/user-attachments/assets/e1e4cd11-5b93-4f2c-a76f-0d99dc06c691
 
 ---
 
@@ -165,7 +168,8 @@ Features:
 All analysis is performed automatically using computer vision and ML models.
 
 🎬 Demo video:  
-`ExerciseAnalysis.mp4`
+
+https://github.com/user-attachments/assets/4b69b8fe-5126-4703-ad98-5aebab3443ad
 
 ---
 
@@ -186,7 +190,8 @@ The diet tracker helps users manage nutrition efficiently:
 Integration with the recipe system allows quick meal creation.
 
 🎬 Demo video:  
-`DietTracker.mp4`
+
+https://github.com/user-attachments/assets/acb57dec-84db-4e82-be0b-27b60fcbcac7
 
 ---
 
@@ -210,20 +215,8 @@ Recipe management system:
   - Preferences
 
 🎬 Demo video:  
-`Recipes.mp4`
 
----
-
-## 🛠️ Technology Stack
-
-- Python (FastAPI)
-- React
-- PostgreSQL
-- Docker
-- YOLO / Pose Estimation models
-- Custom ML models for body analysis and movement recognition
-- Cloud object storage for media
-- JWT authentication
+https://github.com/user-attachments/assets/1bfddc7f-ccca-4324-b938-4b94868e4b39
 
 ---
 
